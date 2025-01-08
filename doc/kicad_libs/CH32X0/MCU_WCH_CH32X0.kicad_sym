@@ -58,7 +58,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "*TSSOP20*"
+		(property "ki_fp_filters" "*TSSOP*20*4.4x6.5mm*P0.65mm*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -489,7 +489,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "*LQFP48*"
+		(property "ki_fp_filters" "*LQFP*48*7x7mm*P0.5mm*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1433,7 +1433,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "*TSSOP20*"
+		(property "ki_fp_filters" "*TSSOP*20*4.4x6.5mm*P0.65mm*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1873,7 +1873,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "*QFN20_3X3*"
+		(property "ki_fp_filters" "*QFN*20*1EP*3x3mm*P0.4mm*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2331,7 +2331,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "*QSOP28*"
+		(property "ki_fp_filters" "*QSOP*28*3.9x9.9mm*P0.635mm*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2915,7 +2915,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "*QFN28_4X4*"
+		(property "ki_fp_filters" "*QFN*28*1EP*4x4mm*P0.4mm*"
 			(at 0 0 0)
 			(effects
 				(font
