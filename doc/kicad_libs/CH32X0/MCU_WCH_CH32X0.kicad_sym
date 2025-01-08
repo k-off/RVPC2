@@ -1277,7 +1277,7 @@
 				)
 			)
 			(pin power_in line
-				(at -20.32 62.23 270)
+				(at -20.32 60.96 270)
 				(length 5.08)
 				(name "VDD"
 					(effects
@@ -2289,15 +2289,15 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -41.656 26.67 0)
+			(at -42.926 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "CH32x035G8R6"
-			(at -32.004 26.67 0)
+		(property "Value" "CH32X035G8R6"
+			(at -33.274 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2305,7 +2305,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:QSOP-28_3.9x9.9mm_P0.635mm"
-			(at -20.574 41.402 0)
+			(at -21.844 41.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2314,7 +2314,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.wch-ic.com/downloads/CH32X035DS0_PDF.html"
-			(at -13.208 43.688 0)
+			(at -14.478 43.688 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2323,7 +2323,7 @@
 			)
 		)
 		(property "Description" "QingKe RISC-V core with: built-in USB and PD PHY, USB Host/Device, USB PD/type-C, 2 groups of OPA, 3 groups of CMP, 4 groups of USART, I2C, SPI, multiple timers, 12-bit ADC, 14-channel Touchkey, programmable protocol I/O controller"
-			(at 77.724 45.974 0)
+			(at 76.454 45.974 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2351,8 +2351,8 @@
 		)
 		(symbol "CH32X035G8R6_1_0"
 			(rectangle
-				(start -41.91 25.4)
-				(end 41.91 -25.4)
+				(start -43.18 25.4)
+				(end 43.18 -25.4)
 				(stroke
 					(width 0.254)
 					(type solid)
@@ -2363,7 +2363,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -46.99 17.78 0)
+				(at -48.26 17.78 0)
 				(length 5.08)
 				(name "PC19/DCK/T2C1_/T3C1_/I2C_/RX3_/C1P0"
 					(effects
@@ -2381,7 +2381,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -46.99 -5.08 0)
+				(at -48.26 -5.08 0)
 				(length 5.08)
 				(name "PA1/RTS2/T2C2/C1O/O1N2/O2N2/A1"
 					(effects
@@ -2399,7 +2399,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -46.99 -7.62 0)
+				(at -48.26 -7.62 0)
 				(length 5.08)
 				(name "PA2/TX2/T2C3/O2O1/T2ET_/C3N0/A2"
 					(effects
@@ -2417,7 +2417,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -46.99 -10.16 0)
+				(at -48.26 -10.16 0)
 				(length 5.08)
 				(name "PA3/T2C4/O1O0/T3C1_/RX2/A3"
 					(effects
@@ -2435,7 +2435,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -46.99 -12.7 0)
+				(at -48.26 -12.7 0)
 				(length 5.08)
 				(name "PA6/MISO/T3C1/T1BK_/O1N0/A6"
 					(effects
@@ -2453,7 +2453,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -46.99 -15.24 0)
+				(at -48.26 -15.24 0)
 				(length 5.08)
 				(name "PB0/TX4/T1C2N_/O1P0/A8"
 					(effects
@@ -2471,7 +2471,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 -15.24 180)
+				(at 48.26 -15.24 180)
 				(length 5.08)
 				(name "PA4/CS/O2O0/T3C2_/A4"
 					(effects
@@ -2489,7 +2489,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 -12.7 180)
+				(at 48.26 -12.7 180)
 				(length 5.08)
 				(name "PA5/SCK/TX4_/O2N0/A5"
 					(effects
@@ -2507,7 +2507,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 -10.16 180)
+				(at 48.26 -10.16 180)
 				(length 5.08)
 				(name "PA7/MOSI/T3C2/T1C1N_/TX1_/O2P0/A7"
 					(effects
@@ -2525,7 +2525,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 -7.62 180)
+				(at 48.26 -7.62 180)
 				(length 5.08)
 				(name "PB3/TX3/C3O/T2C3_/T2C3N_/O2P1"
 					(effects
@@ -2543,7 +2543,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 -5.08 180)
+				(at 48.26 -5.08 180)
 				(length 5.08)
 				(name "PB4/T2C4_/T3C1_/T2BK_/RX3/O1P2"
 					(effects
@@ -2561,7 +2561,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -46.99 15.24 0)
+				(at -48.26 15.24 0)
 				(length 5.08)
 				(name "PC16/UDM/T1C4/TX4_/I2C_/RX4_/CTS1/PC11"
 					(effects
@@ -2579,7 +2579,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 -2.54 180)
+				(at 48.26 -2.54 180)
 				(length 5.08)
 				(name "PB1/T1C3N_/RX4/O2N1/A9/PB5/O1O1/T3C2_/T1BK"
 					(effects
@@ -2597,7 +2597,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 0 180)
+				(at 48.26 0 180)
 				(length 5.08)
 				(name "PB6/T1C1N/CTS3/O1N1"
 					(effects
@@ -2615,7 +2615,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 2.54 180)
+				(at 48.26 2.54 180)
 				(length 5.08)
 				(name "PB7/T1C2N/RTS3_/O2P2"
 					(effects
@@ -2633,7 +2633,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 5.08 180)
+				(at 48.26 5.08 180)
 				(length 5.08)
 				(name "PB8/T1C3N/O1P1"
 					(effects
@@ -2651,7 +2651,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 7.62 180)
+				(at 48.26 7.62 180)
 				(length 5.08)
 				(name "PB9/T1C1/MCO/TX4_"
 					(effects
@@ -2669,7 +2669,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 10.16 180)
+				(at 48.26 10.16 180)
 				(length 5.08)
 				(name "PB10/TX1/T1C2"
 					(effects
@@ -2687,7 +2687,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 12.7 180)
+				(at 48.26 12.7 180)
 				(length 5.08)
 				(name "PB11/T1C3/T2C1N_/RX1"
 					(effects
@@ -2705,7 +2705,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 15.24 180)
+				(at 48.26 15.24 180)
 				(length 5.08)
 				(name "PB12/T1C4_/T2C2N_"
 					(effects
@@ -2723,7 +2723,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 46.99 17.78 180)
+				(at 48.26 17.78 180)
 				(length 5.08)
 				(name "PC18/DIO/TX3_/T2C1N_/T3C2_/I2C_"
 					(effects
@@ -2741,7 +2741,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -46.99 12.7 0)
+				(at -48.26 12.7 0)
 				(length 5.08)
 				(name "PC17/UDP/RTS1/TX4_/I2C_/RX4_/T1ET/PC10"
 					(effects
@@ -2759,7 +2759,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -46.99 10.16 0)
+				(at -48.26 10.16 0)
 				(length 5.08)
 				(name "PA12/T2C2_/T2C1N_/C2P0/PC14/CC1/T1C3_/T2C2_"
 					(effects
@@ -2777,7 +2777,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -46.99 7.62 0)
+				(at -48.26 7.62 0)
 				(length 5.08)
 				(name "PA13/T2C3_/T2C2N_/C3P0/PC15/CC2/T2C3_"
 					(effects
@@ -2831,7 +2831,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -46.99 0 0)
+				(at -48.26 0 0)
 				(length 5.08)
 				(name "PC3/RST/T2C3N_/T2C1N_/C1N0/C2N1/C3N1/A13"
 					(effects
@@ -2849,7 +2849,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -46.99 -2.54 0)
+				(at -48.26 -2.54 0)
 				(length 5.08)
 				(name "PA0/T2C1/CTS2/C1P1/A0"
 					(effects
