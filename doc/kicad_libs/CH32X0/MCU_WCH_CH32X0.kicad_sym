@@ -40,7 +40,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CH32X033F8P6 TSSOP20"
+		(property "Description" "QingKe RISC-V core with: built-in USB and PD PHY, USB Host/Device, USB PD/type-C, 2 groups of OPA, 3 groups of CMP, 4 groups of USART, I2C, SPI, multiple timers, 12-bit ADC, 14-channel Touchkey, programmable protocol I/O controller"
 			(at -28.956 33.274 0)
 			(effects
 				(font
@@ -49,7 +49,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "RISC V CH32 X033 F8 P6 ch32x033f8p6"
+		(property "ki_keywords" "RISCV CH32 X033 ch32x033f8p6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -480,7 +480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CH32X035C8T6 LQFP48"
+		(property "Description" "QingKe RISC-V core with: built-in USB and PD PHY, USB Host/Device, USB PD/type-C, 2 groups of OPA, 3 groups of CMP, 4 groups of USART, I2C, SPI, multiple timers, 12-bit ADC, 14-channel Touchkey, programmable protocol I/O controller"
 			(at -43.688 78.994 0)
 			(effects
 				(font
@@ -490,6 +490,15 @@
 			)
 		)
 		(property "ki_fp_filters" "*LQFP*48*7x7mm*P0.5mm*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "RISCV CH32 X035 ch32x035c8t6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1415,7 +1424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CH32X035F7P6 TSSOP20"
+		(property "Description" "QingKe RISC-V core with: built-in USB and PD PHY, USB Host/Device, USB PD/type-C, 2 groups of OPA, 3 groups of CMP, 4 groups of USART, I2C, SPI, multiple timers, 12-bit ADC, 14-channel Touchkey, programmable protocol I/O controller"
 			(at -26.416 32.004 0)
 			(effects
 				(font
@@ -1424,7 +1433,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "RISC V CH32 X035 F7 P6 ch32x035f7p6"
+		(property "ki_keywords" "RISCV CH32 X035 ch32x035f7p6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1855,7 +1864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CH32X035F8U6 QFN20"
+		(property "Description" "QingKe RISC-V core with: built-in USB and PD PHY, USB Host/Device, USB PD/type-C, 2 groups of OPA, 3 groups of CMP, 4 groups of USART, I2C, SPI, multiple timers, 12-bit ADC, 14-channel Touchkey, programmable protocol I/O controller"
 			(at -32.004 62.484 0)
 			(effects
 				(font
@@ -1864,7 +1873,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "RISC V CH32 X035 F8 U6"
+		(property "ki_keywords" "RISCV CH32 X035 ch32x035f8u6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2313,7 +2322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CH32x035G8R6 QSOP28"
+		(property "Description" "QingKe RISC-V core with: built-in USB and PD PHY, USB Host/Device, USB PD/type-C, 2 groups of OPA, 3 groups of CMP, 4 groups of USART, I2C, SPI, multiple timers, 12-bit ADC, 14-channel Touchkey, programmable protocol I/O controller"
 			(at -30.734 37.084 0)
 			(effects
 				(font
@@ -2322,7 +2331,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "RISC V CH32 X035"
+		(property "ki_keywords" "RISCV CH32 X035 ch32x035g8r6"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2897,7 +2906,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CH32X035G8U6 QFN28"
+		(property "Description" "QingKe RISC-V core with: built-in USB and PD PHY, USB Host/Device, USB PD/type-C, 2 groups of OPA, 3 groups of CMP, 4 groups of USART, I2C, SPI, multiple timers, 12-bit ADC, 14-channel Touchkey, programmable protocol I/O controller"
 			(at -37.338 71.628 0)
 			(effects
 				(font
@@ -2906,7 +2915,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "RISC V CH32 X035 G8 U6"
+		(property "ki_keywords" "RISCV CH32 X035 G8 U6 ch32x035g8u6"
 			(at 0 0 0)
 			(effects
 				(font
