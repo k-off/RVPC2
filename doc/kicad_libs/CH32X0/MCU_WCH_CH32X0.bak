@@ -124,8 +124,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_CH32X0:TSSOP20"
-			(at -28.194 22.606 0)
+		(property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm"
+			(at -19.304 28.448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -134,7 +134,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.wch-ic.com/downloads/CH32X035DS0_PDF.html"
-			(at -11.684 25.146 0)
+			(at -11.684 30.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -143,7 +143,7 @@
 			)
 		)
 		(property "Description" "CH32X033F8P6 TSSOP20"
-			(at -29.21 27.432 0)
+			(at -28.956 33.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -564,8 +564,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_CH32X0:LQFP48"
-			(at -42.672 57.912 0)
+		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
+			(at -35.814 74.168 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -574,7 +574,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.wch-ic.com/downloads/CH32X035DS0_PDF.html"
-			(at -25.654 59.944 0)
+			(at -25.654 76.708 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -583,7 +583,7 @@
 			)
 		)
 		(property "Description" "CH32X035C8T6 LQFP48"
-			(at -43.688 61.976 0)
+			(at -43.688 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1499,8 +1499,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_CH32X0:TSSOP20"
-			(at -26.924 22.86 0)
+		(property "Footprint" "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm"
+			(at -16.51 27.432 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1509,7 +1509,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.wch-ic.com/downloads/CH32X035DS0_PDF.html"
-			(at -10.16 25.4 0)
+			(at -8.89 29.718 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1518,7 +1518,7 @@
 			)
 		)
 		(property "Description" "CH32X035F7P6 TSSOP20"
-			(at -27.686 27.686 0)
+			(at -26.416 32.004 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1939,8 +1939,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_CH32X0:QFN28_4X4"
-			(at -28.194 48.006 0)
+		(property "Footprint" "Package_DFN_QFN:QFN-20-1EP_3x3mm_P0.4mm_EP1.65x1.65mm"
+			(at -11.176 57.912 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1949,7 +1949,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.wch-ic.com/downloads/CH32X035DS0_PDF.html"
-			(at -12.954 45.72 0)
+			(at -13.716 60.198 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1958,7 +1958,7 @@
 			)
 		)
 		(property "Description" "CH32X035F8U6 QFN20"
-			(at -31.242 50.292 0)
+			(at -32.004 62.484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2397,8 +2397,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_CH32X0:QSOP28"
-			(at -29.972 28.194 0)
+		(property "Footprint" "Package_SO:QSOP-28_3.9x9.9mm_P0.635mm"
+			(at -20.32 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2407,7 +2407,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.wch-ic.com/downloads/CH32X035DS0_PDF.html"
-			(at -12.954 30.226 0)
+			(at -12.954 35.306 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2416,7 +2416,7 @@
 			)
 		)
 		(property "Description" "CH32x035G8R6 QSOP28"
-			(at -30.734 32.258 0)
+			(at -30.734 37.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2981,8 +2981,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_CH32X0:QFN28_4X4"
-			(at -34.798 54.102 0)
+		(property "Footprint" "Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm"
+			(at -17.78 66.294 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2991,7 +2991,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.wch-ic.com/downloads/CH32X035DS0_PDF.html"
-			(at -19.558 52.07 0)
+			(at -19.05 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3000,7 +3000,7 @@
 			)
 		)
 		(property "Description" "CH32X035G8U6 QFN28"
-			(at -37.846 55.88 0)
+			(at -37.338 71.628 0)
 			(effects
 				(font
 					(size 1.27 1.27)
