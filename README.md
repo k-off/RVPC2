@@ -1,6 +1,28 @@
-# CH32X035
+# RVPC2
 
-CH32X035 RISC-V MCU family documentation and demos
+Inspired by [OLIMEX RVPC](https://github.com/OLIMEX/RVPC) project, I decided to create a #higher-faster-stronger version.
+
+Key differences:
+
+|Feature|V1|V2|
+|-|-|-|
+|**MCU**|||
+|Model|CH32V003F4P6|CH32X035G8R6|
+|Pins|8|28|
+|RAM|2k|20k|
+|ROM|16k|64k|
+|USB| X | **V** |
+|**Display**|||
+|Color|mono (1-bit)| 8 (3-bit)|
+|Communication| X | **V** |
+|**Ports**|||
+|PS2| **V** | X |
+|USB| X | **2.0 FS** |
+|Audio| X | 3.5mm jack |
+|Storage| X | Micro-SD |
+|Power| 5V, 5mm barrel| 5V, USB-C PD|
+
+![preview](/pcb/pcb/v0.1-3d.png)
 
 ## Build tools:
 
